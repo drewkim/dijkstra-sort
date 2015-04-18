@@ -14,3 +14,6 @@ Format the data.txt file with the following style:
 [a-b edge weight] [b-b edge weight (0)] [c-b edge weight]
 
 [a-c edge weight] [b-c edge weight] [c-c edge weight (0)]
+
+
+Made for ATCS 2015.
